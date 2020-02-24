@@ -1,4 +1,4 @@
-This is a to test the pull request delete
+This is pullrequest delete test
 
 This project serves as a simple code sample with some common react patterns. View the running app at https://adammlr.github.io/react-sample/
 
